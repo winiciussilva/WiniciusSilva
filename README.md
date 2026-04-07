@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://github.com/winiciussilva/WiniciusSilva/blob/20377a71e9ff6d067bc802802720d4828949b54c/foto%20do%20Perfil.png" width="100%" />
-  
-<div align="center">
+  <div align="center">
   <div align="center" width="100%">
     <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5FDFF&width=900&size=30&center=true&lines=I'm+Win%C3%ADcius+Albuquerque;;Be+welcome!" alt="Typing SVG"/>
   </div>   
-  
+  <br>
+</div>
+</div>
 <p align="center">
 Desenvolvedor Python | Data & Inteligência Artificial  
 Soluções tecnológicas voltadas ao mercado financeiro
@@ -107,26 +108,22 @@ Busco aplicar tecnologia para resolver problemas reais, com ênfase em análise,
       width="30px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+      
+
 
 ## 📊 Estatísticas
 
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=winiciussilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=winiciussilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winiciussilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="200" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=winiciussilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
+<div style="clear: both;"></div>
 
 ---
 
