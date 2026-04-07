@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://github.com/winiciussilva/WiniciusSilva/blob/20377a71e9ff6d067bc802802720d4828949b54c/foto%20do%20Perfil.png" width="100%" />
-  <h2>Winícius Albuquerque</h2>
-</div>
+  
+<div align="center">
+  <div align="center" width="100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=5FDFF&width=900&size=30&center=true&lines=I'm+Win%C3%ADcius+Albuquerque;;Be+welcome!" alt="Typing SVG"/>
+  </div>   
+  
 <p align="center">
 Desenvolvedor Python | Data & Inteligência Artificial  
 Soluções tecnológicas voltadas ao mercado financeiro
